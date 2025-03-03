@@ -7,3 +7,4 @@ opencv-python
 gym
 nes_py
 gym-super-mario-bros
+stable-baselines3
