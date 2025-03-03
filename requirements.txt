@@ -4,7 +4,7 @@ matplotlib
 torch
 torchvision
 opencv-python
-gym
-nes_py
+gym==0.25.2
+nes_py==8.1.0
 gym-super-mario-bros
 stable-baselines3
