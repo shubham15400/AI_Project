@@ -3,6 +3,7 @@ numpy
 matplotlib
 torch
 torchvision
+tensorboard
 opencv-python
 gym==0.25.2
 nes_py==8.1.0
